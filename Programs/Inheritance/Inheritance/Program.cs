@@ -47,7 +47,7 @@ namespace Inheritance
     }
 
     /// <summary>
-    /// child class inherited from base class using colon(:)
+    /// We can inherit base class in child class using colon(:)
     /// </summary>
     public class ChildClass : BaseClass
     {
