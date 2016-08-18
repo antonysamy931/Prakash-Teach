@@ -1,0 +1,6 @@
+D:\Antony\Prakash\Prakash-Teach\Programs\Partial\Partial\bin\Debug\Partial.exe.config
+D:\Antony\Prakash\Prakash-Teach\Programs\Partial\Partial\bin\Debug\Partial.exe
+D:\Antony\Prakash\Prakash-Teach\Programs\Partial\Partial\bin\Debug\Partial.pdb
+D:\Antony\Prakash\Prakash-Teach\Programs\Partial\Partial\obj\Debug\Partial.csprojResolveAssemblyReference.cache
+D:\Antony\Prakash\Prakash-Teach\Programs\Partial\Partial\obj\Debug\Partial.exe
+D:\Antony\Prakash\Prakash-Teach\Programs\Partial\Partial\obj\Debug\Partial.pdb

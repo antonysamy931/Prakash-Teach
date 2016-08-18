@@ -1,0 +1,6 @@
+D:\Antony\Prakash\Prakash-Teach\Programs\Abstract\Abstract\bin\Debug\Abstract.exe.config
+D:\Antony\Prakash\Prakash-Teach\Programs\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+D:\Antony\Prakash\Prakash-Teach\Programs\Abstract\Abstract\bin\Debug\Abstract.exe
+D:\Antony\Prakash\Prakash-Teach\Programs\Abstract\Abstract\bin\Debug\Abstract.pdb
+D:\Antony\Prakash\Prakash-Teach\Programs\Abstract\Abstract\obj\Debug\Abstract.exe
+D:\Antony\Prakash\Prakash-Teach\Programs\Abstract\Abstract\obj\Debug\Abstract.pdb

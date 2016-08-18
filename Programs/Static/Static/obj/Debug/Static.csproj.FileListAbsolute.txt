@@ -1,0 +1,6 @@
+D:\Antony\Prakash\Prakash-Teach\Programs\Static\Static\bin\Debug\Static.exe.config
+D:\Antony\Prakash\Prakash-Teach\Programs\Static\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
+D:\Antony\Prakash\Prakash-Teach\Programs\Static\Static\bin\Debug\Static.exe
+D:\Antony\Prakash\Prakash-Teach\Programs\Static\Static\bin\Debug\Static.pdb
+D:\Antony\Prakash\Prakash-Teach\Programs\Static\Static\obj\Debug\Static.exe
+D:\Antony\Prakash\Prakash-Teach\Programs\Static\Static\obj\Debug\Static.pdb
