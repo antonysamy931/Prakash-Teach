@@ -10,7 +10,10 @@ namespace Partial
     /// ************************************************************
     /// What is Partial Class?
     /// ************************************************************
-    /// Parial class is incompleted class 
+    /// Parial class is incomplete class. Partial classes span multiple files. 
+    /// How can you use the partial modifier on a C# class declaration? 
+    /// With partial, you can physically separate a class into multiple files. 
+    /// This is often done by code generators.
     /// </summary>
     class Program
     {
