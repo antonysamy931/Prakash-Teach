@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AEPModelStoreContainer" CdmEntityContainer="AEPEntities">
+    <EntitySetMapping Name="Accents">
+      <EntityTypeMapping TypeName="AEPModel.Accent">
+        <MappingFragment StoreEntitySet="Accent">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ImageId" ColumnName="ImageId" />
+          <ScalarProperty Name="British" ColumnName="British" />
+          <ScalarProperty Name="American" ColumnName="American" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

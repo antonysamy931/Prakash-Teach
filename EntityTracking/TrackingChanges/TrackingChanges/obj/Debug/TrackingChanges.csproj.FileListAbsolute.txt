@@ -1,0 +1,8 @@
+D:\Antony\Prakash\Prakash-Teach\EntityTracking\TrackingChanges\TrackingChanges\bin\Debug\TrackingChanges.exe.config
+D:\Antony\Prakash\Prakash-Teach\EntityTracking\TrackingChanges\TrackingChanges\bin\Debug\TrackingChanges.exe
+D:\Antony\Prakash\Prakash-Teach\EntityTracking\TrackingChanges\TrackingChanges\bin\Debug\TrackingChanges.pdb
+D:\Antony\Prakash\Prakash-Teach\EntityTracking\TrackingChanges\TrackingChanges\bin\Debug\EntityFramework.dll
+D:\Antony\Prakash\Prakash-Teach\EntityTracking\TrackingChanges\TrackingChanges\bin\Debug\EntityFramework.xml
+D:\Antony\Prakash\Prakash-Teach\EntityTracking\TrackingChanges\TrackingChanges\obj\Debug\TrackingChanges.csprojResolveAssemblyReference.cache
+D:\Antony\Prakash\Prakash-Teach\EntityTracking\TrackingChanges\TrackingChanges\obj\Debug\TrackingChanges.exe
+D:\Antony\Prakash\Prakash-Teach\EntityTracking\TrackingChanges\TrackingChanges\obj\Debug\TrackingChanges.pdb

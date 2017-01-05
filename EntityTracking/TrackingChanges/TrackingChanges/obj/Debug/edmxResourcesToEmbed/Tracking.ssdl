@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AEPModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="AEPModelStoreContainer">
+    <EntitySet Name="Accent" EntityType="AEPModel.Store.Accent" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Accent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ImageId" Type="int" />
+    <Property Name="British" Type="nvarchar" Nullable="false" MaxLength="300" />
+    <Property Name="American" Type="nvarchar" Nullable="false" MaxLength="300" />
+  </EntityType>
+</Schema>
