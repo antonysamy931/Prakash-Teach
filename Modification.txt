@@ -1,0 +1,34 @@
+Table Changes:
+********************************************************************
+BistroKey - MenuplannerKey
+LoggingForMyBistroMD - LoggingForMpClient
+OrderRegeneration - Column name : MyBistroRemarks - MpClientRemarks
+Meal - Column name : BistroMDActive - MenuplannerActive
+Meal - column name : MyBistroMDActive - MpClientActive
+********************************************************************
+
+Procedure Changes:
+********************************************************************
+SetPreferenceFrommyBistroMD - SetPreferenceFromMpClient
+MyBistroCustomerIngredientCategoryExclusion_GetByIngredientCategoryId - MpClientCustomerIngredientCategoryExclusion_GetByIngredientCategoryId
+CancelledAndCreatedOrderFrommybistroMD - CancelledAndCreatedOrderFromMpClient
+MybistroHistroyGetIngredient - MpClientHistroyGetIngredient
+USP_UpdateMyBistroMDPassword - USP_UpdateMpClientPassword
+MybistroHistroyGet - MpClientHistroyGet
+SetIngredientStatusFromCustomerMealForMyBistro - SetIngredientStatusFromCustomerMealForMpClient
+USP_CheckRestrictionCountByMealID_MyBistroMD - USP_CheckRestrictionCountByMealID_MpClient
+
+Procedure param name changes:
+*****************************
+USP_Meal_UpdateQuantity :  @BistroMDActive - @MenuplannerActive, @MyBistroMDActive - @MpClientActive
+
+Removed Procedure
+******************
+SyncPlan
+Update_bistroMP_from_BistroNew
+
+********************************************************************
+
+Function Name modification
+********************************************************************
+vueCancelledAndCreatedOrderFrommybistroMD - vueCancelledAndCreatedOrderFromMpClient
